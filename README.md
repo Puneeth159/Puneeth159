@@ -20,17 +20,17 @@ Github Profile: https://github.com/Puneeth159
 
 ## Strengths:
 
-1 Communication skills
+1. Communication skills
 
-1 Quick learner
+2. Quick learner
 
-1 Good team worker
+3. Good team worker
 
 ## Connections:
 
-Linkedin: https://www.linkedin.com/in/puneeth-annam-921b7219a/
+1. Linkedin: https://www.linkedin.com/in/puneeth-annam-921b7219a/
 
-Github profile: https://github.com/Puneeth159
+2. Github profile: https://github.com/Puneeth159
 
 
 
