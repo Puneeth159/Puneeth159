@@ -1,16 +1,37 @@
-### Hi there 👋
+#About Me
 
-<!--
-**Puneeth159/Puneeth159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi Everyone, this is Puneeth Annam from Telangana, India. I did my schooling in warangal district of telangana state. I completed my intermediate in Narayana Junior College of hyderabad. Later I did my undergraduation in Electronics and Communication Engineering from Gitam, hyderabad. My hobbies are watching and playing cricket, listening to music for relaxation, travelling.
 
-Here are some ideas to get you started:
+##Collaboration:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github Profile: https://github.com/Puneeth159
+
+##Languages:
+
+- Java
+- SQL
+- JavaScript
+- HTML, CSS
+
+##Educational Qualifications:
+
+- I completed my undergraduation in Electronics and Communication Engineering from Gitam, hyderabad with an aggregate of 70%
+- I did my intermediate in MPC from Narayana Junior College with a percentage of 90%
+
+##Strengths:
+
+1 Communication skills
+1 Quick learner
+1 Good team worker
+
+##Connections:
+
+Linkedin: https://www.linkedin.com/in/puneeth-annam-921b7219a/
+Github profile: https://github.com/Puneeth159
+
+
+
+
+
+
+
