@@ -1,6 +1,6 @@
 # About Me
 
-Hi Everyone, this is Puneeth Annam from Telangana, India. I did my schooling in warangal district of telangana state. I completed my intermediate in Narayana Junior College of hyderabad. Later I did my undergraduation in Electronics and Communication Engineering from Gitam, hyderabad. My hobbies are watching and playing cricket, listening to music for relaxation, travelling.
+Hi Everyone, this is Puneeth Annam from Telangana, India. I did my schooling in warangal district of telangana state. I completed my intermediate in Narayana Junior College of hyderabad. Later I did my undergraduation in Electronics and Communication Engineering from Gitam, hyderabad. My hobbies are watching and playing cricket, listening to music for relaxation, travelling. I am thinking to work on Devops after graduation and also started learning about it.
 
 ## Collaboration:
 
