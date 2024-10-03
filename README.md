@@ -32,9 +32,8 @@ Github Profile: https://github.com/Puneeth159
 
 ## Connections:
 
-1. Linkedin: https://www.linkedin.com/in/puneeth-annam-921b7219a/
+1. Github profile: https://github.com/Puneeth159
 
-2. Github profile: https://github.com/Puneeth159
 
 
 
