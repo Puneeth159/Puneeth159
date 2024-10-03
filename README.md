@@ -6,12 +6,16 @@ Hi Everyone, this is Puneeth Annam from Telangana, India. I did my schooling in 
 
 Github Profile: https://github.com/Puneeth159
 
-## Languages:
+## Technical Skills:
 
-- Java
-- SQL
-- JavaScript
-- HTML, CSS
+- Docker
+- Kubernetes
+- Jenkins
+- CI/CD
+- Terraform
+- GCP
+- AWS
+- Github
 
 ## Educational Qualifications:
 
